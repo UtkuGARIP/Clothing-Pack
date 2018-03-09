@@ -1,7 +1,7 @@
-﻿Key, English, German, Russian
-GAMEPLAY_SkiGoggles, "Ski Goggles", "Skibrille", "Горнолыжная маска"
-GAMEPLAY_SkiGogglesDescription, "Finally something to protect the eyes from bright light and the cold.", "Endlich etwas, um die Augen vor grellem Licht und Kälte zu schützen.", "Защищает глаза от яркого света и холода."
-GAMEPLAY_SkiMask, "Ski Mask", "Skimaske", "Лыжная маска"
-GAMEPLAY_SkiMaskDescription, "Very warm ski mask, covering most of the face.", "Sehr warme Skimaske, die den Großteil des Gesichts bedeckt.", "Очень теплая лыжная маска, покрывающая большую часть лица."
-GAMEPLAY_ConstructionHelmet, "Construction Helmet", "Bauhelm", "Cтроительная каска"
-GAMEPLAY_ConstructionHelmetDescription, "Protects your head from damage but doesn't help much against the weather.", "Schützt deine Kopf vor Schaden, aber hilft nicht viel gegen das Wetter.", "Защищает голову от повреждений. Крепкая, но не слишком теплая." 
+﻿Key, English, Türkçe, German, Russian
+GAMEPLAY_SkiGoggles, "Ski Goggles", "Kayak Gözlükleri", "Skibrille", "Горнолыжная маска"
+GAMEPLAY_SkiGogglesDescription, "Finally something to protect the eyes from bright light and the cold.", "Sonunda gözleri parlak ışıktan ve soğuktan korumak için bir şey.", "Endlich etwas, um die Augen vor grellem Licht und Kälte zu schützen.", "Защищает глаза от яркого света и холода."
+GAMEPLAY_SkiMask, "Ski Mask", "Kayak Maskesi", "Skimaske", "Лыжная маска"
+GAMEPLAY_SkiMaskDescription, "Very warm ski mask, covering most of the face.", "Yüzün çoğunu kaplayan çok sıcak kayak maskesi.", "Sehr warme Skimaske, die den Großteil des Gesichts bedeckt.", "Очень теплая лыжная маска, покрывающая большую часть лица."
+GAMEPLAY_ConstructionHelmet, "Construction Helmet", "İnşaat Kaskı", "Bauhelm", "Cтроительная каска"
+GAMEPLAY_ConstructionHelmetDescription, "Protects your head from damage but doesn't help much against the weather.", "Başınızın hasar görmesini önler, ancak havaya karşı çok fazla yardımcı olmaz.", "Schützt deine Kopf vor Schaden, aber hilft nicht viel gegen das Wetter.", "Защищает голову от повреждений. Крепкая, но не слишком теплая." 
